@@ -1,5 +1,4 @@
-<h1>Data Analyst Cohort 1 </h1>
-<h2>PROJECT-1 Excel </h2>
+<h1>PROJECT-1 Excel</h1>
 
 <h3>The aim of this project was to analyze employee salary data to derive meaningful insights using Excel's pivot tables, conditional formatting, and slicers. The goal was to understand salary distributions, trends, and factors influencing compensation within the organization. 
 </h3>
